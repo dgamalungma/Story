@@ -1,0 +1,2 @@
+The header should include meta information about the HTML document.
+<link rel="stylesheet" href="stylecheet.css">
